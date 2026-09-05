@@ -1,0 +1,16 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Cached API responses and generated data
+sleeper_players_nfl_cache.json
+espn_summary_*.json
+*_recommendations_*.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
